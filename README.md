@@ -12,9 +12,11 @@ The dashboard is designed to support both operational monitoring and decision-ma
 
 ## Data-Driven Insight and Bottleneck Identification
 ### 1. Stock Take Dashboard Front Page
-Overall stock accuracy improved from June 2024 to July 2024. However, the net financial variance across the two months is -RM68,265, comprising a surplus of RM205,851 and a shortage of -RM274,117.
-Store01 recorded the highest stock accuracy (88.8%), while Store16 showed the lowest net financial variance (RM159.23).
-Across all 10 categories, Meat is the most problematic, with RM134,896 in surplus and RM107,148 in shortage. Store04 has the highest variance in this category, while Store13 has the lowest, suggesting that operational processes are likely the root cause.
+Overall stock accuracy improved from **June 2024 to July 2024**. However, the net financial variance across the two months is **-RM68,265**, comprising a surplus of **RM205,851** and a shortage of **-RM274,117**.
+
+**Store01** recorded the **highest stock accuracy** (88.8%), while **Store16** showed the **lowest net financial variance** (RM159.23).
+
+Across all 10 categories, **MEAT** is the most problematic, with **RM134,896** in surplus and **-RM107,148** in shortage. **Store04** has the **highest variance**, while **Store13** has the lowest, suggesting that operational processes are likely the root cause.
 <img width="1307" height="735" alt="image" src="https://github.com/user-attachments/assets/07cbd6a4-dd21-43e3-ac1c-cb4e8f343096" />
 
 ### 2. Overall Monthly Stock Accuracy Trend
