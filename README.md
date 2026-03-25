@@ -36,17 +36,17 @@ There is a suspected **contra** issue between **Kampung Eggs 10s** and **QL Sand
 <img width="1308" height="735" alt="image" src="https://github.com/user-attachments/assets/bd957bb5-ceb1-487e-adc9-df744e16be55" />
 
 ### 6. Overall Result in June 2024
-When filtered for June 2024, the net financial variance across all outlets is -RM42,013.
-The primary issue remains within the Meat category, indicating that process improvements are required in handling and stock counting.
+When filtered for **June 2024**, the net financial variance across all outlets is **-RM42,013**.
+The primary issue remains within the **MEAT** category, indicating that **process improvements** are required in handling and stock counting.
 <img width="1307" height="736" alt="image" src="https://github.com/user-attachments/assets/aa6c0771-f07f-49c5-99a2-c2c95439fb96" />
 
 ### 7. Result for Meat in July 2024
-In July 2024, Store14 achieved the highest accuracy in the Meat category, suggesting that its operational process could serve as a benchmark. 
+In July 2024, **Store14** achieved the highest accuracy in the **MEAT** category, suggesting that its operational process could serve as a **benchmark**. 
 <img width="1307" height="734" alt="image" src="https://github.com/user-attachments/assets/d59b867c-2558-4305-9831-6f29c027b028" />
 
 ### 8. Result for Store 01 in July 2024
-The dashboard indicates a contra issue involving egg products within the same month. There is a high likelihood of reversal in the following month.
-While MEAT is the main issue across most outlets, Store17 shows significant variance in DRYGOODS.
+The dashboard indicates a contra issue involving **egg products** within the same month. There is a **high likelihood** of reversal in the following month.
+While **MEAT** is the **main issue** across most outlets, **Store17** shows significant variance in **DRYGOODS**.
 <img width="1307" height="735" alt="image" src="https://github.com/user-attachments/assets/f49a3436-41d7-416e-b88b-c4216f1af7b0" />
 
 ## Recommendations
